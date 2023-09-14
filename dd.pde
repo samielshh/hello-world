@@ -1,5 +1,6 @@
 //Global Variables
 int appWidth, appHeight;
+boolean windowActivated;
 //
 void setup () {
   size(500, 600);
